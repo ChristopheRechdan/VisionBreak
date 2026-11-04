@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Secrets and API keys
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+# Generated test artifacts
+experiments/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
